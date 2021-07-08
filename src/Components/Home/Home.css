@@ -1,0 +1,257 @@
+.container-body{
+    background-color: rgba(254, 236, 230, 0.66);
+    height: 500px;
+    margin: 0 100px;
+    text-align: center;
+    font-family: Georgia;
+    color: gray;
+}
+
+.updated-css{
+    display: none;
+}
+
+.updated-css-blue{
+    display: block;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-green{
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-red{
+    display: block;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-ubuntu{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    font-family: Ubuntu;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-roboto{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    font-family: Roboto;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-courier{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    font-family: Courier;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-cyan{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    color: cyan;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-purple{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    color: purple;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-black{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.updated-css-reset{
+    display: block;
+    background-color: rgba(254, 236, 230, 0.66);
+    font-family: Georgia;
+    color: gray;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.container-body-blue{
+    background-color: blue;
+}
+
+.container-body-green{
+    background-color: green;
+}
+
+.container-body-red{
+    background-color: red;
+}
+
+.container-body-ubuntu{
+    font-family: Ubuntu;
+}
+
+.container-body-roboto{
+    font-family: Roboto;
+}
+
+.container-body-courier{
+    font-family: Courier;
+}
+
+.container-body-cyan{
+    color: cyan;
+}
+
+.container-body-purple{
+    color: purple;
+}
+
+.container-body-black{
+    color: black;
+}
+
+.container-body-reset{
+    background-color: rgba(254, 236, 230, 0.66);
+    font-family: Georgia;
+    color: gray;
+
+}
+
+.header-area{
+    padding-top: 100px;
+}
+
+.description-area{
+    padding: 0 100px;
+}
+
+.css-code-box-content{
+    margin: 50px 20px;
+    text-align: center;
+}
+
+.selection-area{
+    margin: 0 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.options-area{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    margin-top: 100px;
+}
+
+.btn-area{
+    display: flex;
+    align-items: center;
+}
+
+.btn-all{
+    margin: 15px;
+    padding: 15px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 0.875;
+    letter-spacing: 1px;
+    color: white;
+    border: 1px solid;
+}
+
+.btn-all:hover{
+    border-color: skyblue;
+    background-color: skyblue;
+}
+
+.btn-blue{
+    border-color: blue;
+    background-color: blue;
+}
+
+.btn-green{
+    border-color: green;
+    background-color: green;
+}
+
+.btn-red{
+    border-color: red;
+    background-color: red;
+}
+
+.btn-ff{
+    border-color: black;
+    background-color: black;
+}
+
+.btn-cyan{
+    border: 3px solid cyan;
+    background-color: white;
+    color: black;
+}
+
+.btn-purple{
+    border: 3px solid purple;
+    background-color: white;
+    color: black;
+}
+
+.btn-black{
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+}
+
+.btn-reset{
+    margin: 50px 200px;
+    padding: 10px 33px;
+    border-radius: 5px;
+    background-color: #f9e79b;
+    border: hidden;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.btn-reset:hover{
+    background-color: brown;
+}
+
+.display-area{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.display-title{
+    font-weight: 500;
+}
+
+.display-field{
+    border: 1px solid black;
+    width: 500px;
+    height: 450px;
+}
+
+.display-note{
+    text-align: center;
+    margin: 20px;
+}
